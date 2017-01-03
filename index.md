@@ -51,6 +51,12 @@ Thank you Elliot Astbury for this suggestion!
 
 I'm going to start this when there's nothing nice for dinner.
 
+## 4. Walk from Woodbridge to Southwold
+
+Thanks Anders Fisher for this suggestion!
+
+I'll do it when I'm fit enough!
+
 ## More Suggestions Needed
 
 I'd like you to come up with some more ideas.
