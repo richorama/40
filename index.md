@@ -35,6 +35,8 @@ However, full submersion in the North Sea at Felixstowe was undertaken, albeit f
 After a quick change in the family beach hut I sauntered down to the sea and jumped in.
 It was quite cold, my skin was numb to the touch afterwards.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_KOom9BF9EU" frameborder="0" allowfullscreen></iframe>
+
 ## 2. Learn to Ride a Unicycle and Enter a Race - IN PROGRESS
 
 Thank you Geoffrey Huntley for this suggestion!
