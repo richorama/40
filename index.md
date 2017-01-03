@@ -51,7 +51,7 @@ Thank you Elliot Astbury for this suggestion!
 
 I'm going to start this when there's nothing nice for dinner.
 
-## 4. Walk from Woodbridge to Southwold
+## 4. Walk from Woodbridge to Southwold - NOT STARTED
 
 Thanks Anders Fisher for this suggestion!
 
