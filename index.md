@@ -24,6 +24,35 @@ In the end I picked these challenges:
 
 # Turning 40
 
-Now I'm turning 40 I'm going to do another 6 challenges. But what should I do? I'd like you to come up with the ideas.
+Now I'm turning 40 I'm going to do another 6 challenges.
+
+
+## 1. Christmas Day Swim in the Sea - ✓ DONE
+
+Thank you Carla Wiggins for suggesting this one! Due to ill health this was delayed to New Year's Eve.
+However, full submersion in the North Sea at Felixstowe was undertaken, albeit for a rather brief period.
+
+After a quick change in the family beach hut I sauntered down to the sea and jumped in.
+It was quite cold, my skin was numb to the touch afterwards.
+
+## 2. Learn to Ride a Unicycle and Enter a Race - IN PROGRESS
+
+Thank you Geoffrey Huntley for this suggestion!
+
+Unicycling is something I've always wanted to try, so I was delighted to receive one from Father Christmas.
+
+I'm currently learning to ride it, slowly.
+
+![Unicycle](images/unicycle.jpg)
+
+## 3. 48 Hour Famine - NOT STARTED
+
+Thank you Elliot Astbury for this suggestion!
+
+I'm going to start this when there's nothing nice for dinner.
+
+## More Suggestions Needed
+
+I'd like you to come up with some more ideas.
 
 The easiest way to contribute an idea is to [add an issue](https://github.com/richorama/40/issues) in the GitHub repo or add a comment below.
