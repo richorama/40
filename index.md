@@ -26,12 +26,13 @@ I'm currently learning to ride it, slowly.
 
 ![Unicycle](images/unicycle.jpg)
 
-## 3. 24 Hour Famine - ✓ DONE
+## 3. 24 Hour Fast - ✓ DONE
 
 Thank you Elliot Astbury and Frank Kesseler for this suggestion!
 
-Starting at 20:00 on 3rd Jan 2017 I ate nothing, through to 20:00 4th Jan 2017. At which time I ate a large plate of chips
-and a bowl of home-grown leak soup. I found this 24hr period extremely unpleasant, and don't wish to do it again.
+Starting at 20:00 on 3rd Jan 2017 I ate nothing, through to 20:00 4th Jan 2017.
+At which time I ate a large plate of chips and a bowl of home-grown leak soup, which I thoroughly enjoyed.
+I found this 24hr period extremely unpleasant, and don't wish to do it again.
 
 ## 4. Walk from Woodbridge to Southwold - NOT STARTED
 
