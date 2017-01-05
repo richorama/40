@@ -2,7 +2,7 @@
 layout: index
 ---
 
-On 12th May 2017 I will be 40 years old. To help me get over this terrible event I'm going to undertake 6 crowd-sourced challenges in the
+> On 12th May 2017 I will be 40 years old. To help me get over this terrible event I'm going to undertake 6 crowd-sourced challenges in the
 preceding months.
 
 ## 1. Christmas Day Swim in the Sea - ✓ DONE
@@ -43,10 +43,6 @@ I'll do it when I'm fit enough!
 I'd like you to come up with some more ideas.
 
 The easiest way to contribute an idea is to [add an issue](https://github.com/richorama/40/issues) in the GitHub repo or add a comment below.
-
-
-
-But first a history lesson...
 
 # Turning 30
 
