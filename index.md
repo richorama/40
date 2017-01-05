@@ -2,7 +2,7 @@
 layout: index
 ---
 
-> On 12th May 2017 I will be 40 years old. To help me get over this terrible event I'm going to undertake 6 crowd-sourced challenges in the
+On 12th May 2017 I will be 40 years old. To help me get over this terrible event I'm going to undertake 6 crowd-sourced challenges in the
 preceding months.
 
 ## 1. Christmas Day Swim in the Sea - ✓ DONE
