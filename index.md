@@ -5,7 +5,7 @@ layout: index
 On 12th May 2017 I will be 40 years old. To help me get over this terrible event I'm going to undertake 6 crowd-sourced challenges in the
 preceding months.
 
-# 1. Christmas Day Swim in the Sea - ✓ DONE
+## 1. Christmas Day Swim in the Sea - ✓ DONE
 
 Thank you Carla Wiggins for suggesting this one! Due to ill health this was delayed to New Year's Eve.
 However, full submersion in the North Sea at Felixstowe was undertaken, albeit for a rather brief period.
@@ -15,7 +15,7 @@ It was quite cold, my skin was numb to the touch afterwards.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_KOom9BF9EU" frameborder="0" allowfullscreen></iframe>
 
-# 2. Learn to Ride a Unicycle and Enter a Race - IN PROGRESS
+## 2. Learn to Ride a Unicycle and Enter a Race - IN PROGRESS
 
 Thank you Geoffrey Huntley for this suggestion!
 
@@ -25,14 +25,14 @@ I'm currently learning to ride it, slowly.
 
 ![Unicycle](images/unicycle.jpg)
 
-# 3. 24 Hour Famine - ✓ DONE
+## 3. 24 Hour Famine - ✓ DONE
 
 Thank you Elliot Astbury and Frank Kesseler for this suggestion!
 
 Starting at 20:00 on 3rd Jan 2017 I ate nothing, through to 20:00 4th Jan 2017. At which time I ate a large plate of chips
-and a bowl of home-grown leak soup. I found this 24hr period extremely unpleasant, and don't wish to do it again. 
+and a bowl of home-grown leak soup. I found this 24hr period extremely unpleasant, and don't wish to do it again.
 
-# 4. Walk from Woodbridge to Southwold - NOT STARTED
+## 4. Walk from Woodbridge to Southwold - NOT STARTED
 
 Thanks Anders Fisher for this suggestion!
 
